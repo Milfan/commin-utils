@@ -1,4 +1,4 @@
-module github.com/Milfan
+module github.com/Milfan/commin-utils
 
 go 1.20
 
