@@ -1,4 +1,4 @@
-package utils_redis
+package redis
 
 import (
 	"strconv"
